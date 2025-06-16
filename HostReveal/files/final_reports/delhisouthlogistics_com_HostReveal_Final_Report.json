@@ -1,0 +1,489 @@
+{
+    "Domain Intelligence": {
+        "domain": "delhisouthlogistics.com",
+        "whois": {
+            "domain_name": "DELHISOUTHLOGISTICS.COM",
+            "registrar": "GoDaddy.com, LLC",
+            "creation_date": "2023-10-11 19:32:21",
+            "expiration_date": "2025-10-11 19:32:21",
+            "emails": "abuse@godaddy.com",
+            "name_servers": [
+                "NS1.DNS-PARKING.COM",
+                "NS2.DNS-PARKING.COM"
+            ]
+        },
+        "dns_records": {
+            "A": [
+                "193.203.185.34"
+            ],
+            "AAAA": [
+                "2a02:4780:11:1227:0:2d78:81e5:2"
+            ],
+            "CNAME": [],
+            "MX": [
+                "10 mx2.hostinger.com.",
+                "5 mx1.hostinger.com."
+            ],
+            "TXT": [
+                "\"v=spf1 include:_spf.mail.hostinger.com ~all\"",
+                "\"google-site-verification=a3bPb61XR9Qzkm8DfGDIcw2L8ZtPIOPCKuPhW5D0T3M\""
+            ]
+        },
+        "reverse_dns": [
+            {
+                "193.203.185.34": null
+            }
+        ],
+        "geolocation": [
+            {
+                "193.203.185.34": {
+                    "ip": "193.203.185.34",
+                    "city": "Mumbai",
+                    "region": "Maharashtra",
+                    "country": "IN",
+                    "loc": "19.0728,72.8826",
+                    "org": "AS47583 Hostinger International Limited",
+                    "postal": "400017",
+                    "timezone": "Asia/Kolkata"
+                }
+            }
+        ],
+        "passive_dns": {
+            "data": [
+                {
+                    "id": "193.203.185.34delhisouthlogistics.com",
+                    "type": "resolution",
+                    "links": {
+                        "self": "https://www.virustotal.com/api/v3/resolutions/193.203.185.34delhisouthlogistics.com"
+                    },
+                    "attributes": {
+                        "date": 1697184995,
+                        "ip_address": "193.203.185.34",
+                        "host_name_last_analysis_stats": {
+                            "malicious": 0,
+                            "suspicious": 0,
+                            "undetected": 94,
+                            "harmless": 0,
+                            "timeout": 0
+                        },
+                        "ip_address_last_analysis_stats": {
+                            "malicious": 0,
+                            "suspicious": 0,
+                            "undetected": 94,
+                            "harmless": 0,
+                            "timeout": 0
+                        },
+                        "host_name": "delhisouthlogistics.com",
+                        "resolver": "VirusTotal"
+                    }
+                }
+            ],
+            "meta": {
+                "count": 1
+            },
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/domains/delhisouthlogistics.com/resolutions?limit=10"
+            }
+        },
+        "crt_logs": [
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 16480807917,
+                "entry_timestamp": "2025-02-02T15:02:28.064",
+                "not_before": "2025-02-02T14:03:57",
+                "not_after": "2025-05-03T14:03:56",
+                "serial_number": "0307e89559e80007fe47192b0cd904b3906f",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 16560973938,
+                "entry_timestamp": "2025-02-02T15:02:27.914",
+                "not_before": "2025-02-02T14:03:57",
+                "not_after": "2025-05-03T14:03:56",
+                "serial_number": "0307e89559e80007fe47192b0cd904b3906f",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295815,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 15776546351,
+                "entry_timestamp": "2024-12-04T15:52:28.493",
+                "not_before": "2024-12-04T14:53:58",
+                "not_after": "2025-03-04T14:53:57",
+                "serial_number": "03eaa28ca8615fe5703efaaa416931521276",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295815,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 15611939308,
+                "entry_timestamp": "2024-12-04T15:52:28.235",
+                "not_before": "2024-12-04T14:53:58",
+                "not_after": "2025-03-04T14:53:57",
+                "serial_number": "03eaa28ca8615fe5703efaaa416931521276",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 14810847935,
+                "entry_timestamp": "2024-10-05T16:41:39.202",
+                "not_before": "2024-10-05T15:43:08",
+                "not_after": "2025-01-03T15:43:07",
+                "serial_number": "04a9c87decc97d8a38afa4bc309036313f50",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 14810839915,
+                "entry_timestamp": "2024-10-05T16:41:38.821",
+                "not_before": "2024-10-05T15:43:08",
+                "not_after": "2025-01-03T15:43:07",
+                "serial_number": "04a9c87decc97d8a38afa4bc309036313f50",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295815,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 14020595852,
+                "entry_timestamp": "2024-08-06T17:37:57.499",
+                "not_before": "2024-08-06T16:39:27",
+                "not_after": "2024-11-04T16:39:26",
+                "serial_number": "035df0fb385a323fec687226a9dad1ae8511",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295815,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 14020589063,
+                "entry_timestamp": "2024-08-06T17:37:57.166",
+                "not_before": "2024-08-06T16:39:27",
+                "not_after": "2024-11-04T16:39:26",
+                "serial_number": "035df0fb385a323fec687226a9dad1ae8511",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 13317673797,
+                "entry_timestamp": "2024-06-07T18:29:36.501",
+                "not_before": "2024-06-07T17:29:35",
+                "not_after": "2024-09-05T17:29:34",
+                "serial_number": "045f8572ac350cd0d61b1fd110eb82cbaf13",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 13317675826,
+                "entry_timestamp": "2024-06-07T18:29:36.042",
+                "not_before": "2024-06-07T17:29:35",
+                "not_after": "2024-09-05T17:29:34",
+                "serial_number": "045f8572ac350cd0d61b1fd110eb82cbaf13",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 12661208869,
+                "entry_timestamp": "2024-04-08T19:20:36.057",
+                "not_before": "2024-04-08T18:20:35",
+                "not_after": "2024-07-07T18:20:34",
+                "serial_number": "03dcae4194127b4ee400e8b5bd0616071d7b",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 12662508899,
+                "entry_timestamp": "2024-04-08T19:20:35.788",
+                "not_before": "2024-04-08T18:20:35",
+                "not_after": "2024-07-07T18:20:34",
+                "serial_number": "03dcae4194127b4ee400e8b5bd0616071d7b",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 12020603649,
+                "entry_timestamp": "2024-02-08T18:54:41.484",
+                "not_before": "2024-02-08T17:54:40",
+                "not_after": "2024-05-08T17:54:39",
+                "serial_number": "046027ae35475a8765a44c32e8b83419f5aa",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 12020607076,
+                "entry_timestamp": "2024-02-08T18:54:40.994",
+                "not_before": "2024-02-08T17:54:40",
+                "not_after": "2024-05-08T17:54:39",
+                "serial_number": "046027ae35475a8765a44c32e8b83419f5aa",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 11384459132,
+                "entry_timestamp": "2023-12-10T18:51:50.003",
+                "not_before": "2023-12-10T17:51:49",
+                "not_after": "2024-03-09T17:51:48",
+                "serial_number": "0349c0b9de93161378596473381be782ff43",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 11372337726,
+                "entry_timestamp": "2023-12-10T18:51:49.882",
+                "not_before": "2023-12-10T17:51:49",
+                "not_after": "2024-03-09T17:51:48",
+                "serial_number": "0349c0b9de93161378596473381be782ff43",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 10739052003,
+                "entry_timestamp": "2023-10-11T19:45:54.835",
+                "not_before": "2023-10-11T18:45:54",
+                "not_after": "2024-01-09T18:45:53",
+                "serial_number": "037a268cd8fd5e4cc253664093ce3c2bb413",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "delhisouthlogistics.com",
+                "name_value": "delhisouthlogistics.com\nwww.delhisouthlogistics.com",
+                "id": 10739050043,
+                "entry_timestamp": "2023-10-11T19:45:54.547",
+                "not_before": "2023-10-11T18:45:54",
+                "not_after": "2024-01-09T18:45:53",
+                "serial_number": "037a268cd8fd5e4cc253664093ce3c2bb413",
+                "result_count": 3
+            }
+        ],
+        "subdomains_sublist3r": {
+            "error": "Sublist3r scan timed out"
+        },
+        "subdomains_amass": {
+            "error": "Amass scan timed out"
+        },
+        "dns_bruteforce": {
+            "error": "Command '['dnsrecon', '-d', 'delhisouthlogistics.com', '-t', 'brt']' returned non-zero exit status 1."
+        }
+    },
+    "Network Scanning": {
+        "nmap_scan": {
+            "error": "'Timeout from nmap process'"
+        },
+        "masscan_scan": [
+            {
+                "ip": "193.203.185.34",
+                "port": "443"
+            },
+            {
+                "ip": "193.203.185.34",
+                "port": "3306"
+            },
+            {
+                "ip": "193.203.185.34",
+                "port": "65002"
+            },
+            {
+                "ip": "193.203.185.34",
+                "port": "80"
+            },
+            {
+                "ip": "193.203.185.34",
+                "port": "21"
+            }
+        ],
+        "os_fingerprint": {},
+        "banner_grabbing": {
+            "193.203.185.34:21": "220 FTP Server ready.",
+            "193.203.185.34:3306": "L\u0000\u0000\u0000\n10.11.10\u0000iQ\u0000@Ot c6(\f\u0000/!\u0002\u0000\u0015\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000HVVF{\r\u0003\u001e)lQn\u0000mysql_native_password\u0000"
+        }
+    },
+    "Packet Analysis": {
+        "zeek_dns": [],
+        "zeek_http": [],
+        "zeek_ssl": [],
+        "domain_pivoting": [],
+        "suricata_alerts": [],
+        "tcpflow_sessions": [],
+        "asn_info": [
+            {
+                "ip": "193.203.185.34",
+                "city": "Mumbai",
+                "region": "Maharashtra",
+                "country": "IN",
+                "loc": "19.0728,72.8826",
+                "org": "AS47583 Hostinger International Limited",
+                "postal": "400017",
+                "timezone": "Asia/Kolkata"
+            }
+        ]
+    },
+    "SSL Inspection & Network Path": {
+        "traceroute": [
+            {
+                "hop": 128,
+                "ip": "172.25.144.1"
+            },
+            {
+                "hop": 63,
+                "ip": "192.168.143.189"
+            },
+            {
+                "hop": 52,
+                "ip": "153.92.2.189"
+            },
+            {
+                "hop": 246,
+                "ip": "136.232.253.36"
+            },
+            {
+                "hop": 53,
+                "ip": "59.144.219.154"
+            },
+            {
+                "hop": 51,
+                "ip": "153.92.2.134"
+            },
+            {
+                "hop": 49,
+                "ip": "193.203.185.34"
+            },
+            {
+                "hop": 49,
+                "ip": "193.203.185.34"
+            },
+            {
+                "hop": 49,
+                "ip": "193.203.185.34"
+            },
+            {
+                "hop": 49,
+                "ip": "193.203.185.34"
+            },
+            {
+                "hop": 49,
+                "ip": "193.203.185.34"
+            }
+        ],
+        "packet_capture": {
+            "error": "Command '['tshark', '-a', 'duration:10', '-w', 'delhisouthlogistics.com_capture.pcap']' returned non-zero exit status 1."
+        },
+        "ssl_certificate": {
+            "subject": [
+                [
+                    [
+                        "commonName",
+                        "delhisouthlogistics.com"
+                    ]
+                ]
+            ],
+            "issuer": [
+                [
+                    [
+                        "countryName",
+                        "US"
+                    ]
+                ],
+                [
+                    [
+                        "organizationName",
+                        "Let's Encrypt"
+                    ]
+                ],
+                [
+                    [
+                        "commonName",
+                        "R10"
+                    ]
+                ]
+            ],
+            "SAN": [
+                [
+                    "DNS",
+                    "delhisouthlogistics.com"
+                ],
+                [
+                    "DNS",
+                    "www.delhisouthlogistics.com"
+                ]
+            ],
+            "valid_from": "Feb  2 14:03:57 2025 GMT",
+            "valid_to": "May  3 14:03:56 2025 GMT"
+        },
+        "server_headers": {
+            "Connection": "Keep-Alive",
+            "Keep-Alive": "timeout=5, max=100",
+            "x-powered-by": "PHP/8.1.31",
+            "content-type": "text/html; charset=UTF-8",
+            "link": "<https://delhisouthlogistics.com/index.php/wp-json/>; rel=\"https://api.w.org/\", <https://delhisouthlogistics.com/index.php/wp-json/wp/v2/pages/1477>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://delhisouthlogistics.com/>; rel=shortlink",
+            "etag": "\"145-1742833912;gz\"",
+            "x-litespeed-cache": "hit",
+            "content-encoding": "gzip",
+            "vary": "Accept-Encoding",
+            "content-length": "25976",
+            "date": "Tue, 25 Mar 2025 11:27:39 GMT",
+            "server": "LiteSpeed",
+            "platform": "hostinger",
+            "panel": "hpanel",
+            "content-security-policy": "upgrade-insecure-requests",
+            "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+        }
+    },
+    "Threat Intelligence Correlation": {
+        "nmap_scan": "Error: Nmap scan timed out",
+        "fingerprint_info": [
+            {
+                "whois": "   Domain Name: DELHISOUTHLOGISTICS.COM\n   Registry Domain ID: 2821106240_DOMAIN_COM-VRSN\n   Registrar WHOIS Server: whois.godaddy.com\n   Registrar URL: http://www.godaddy.com\n   Updated Date: 2024-10-12T16:37:10Z\n   Creation Date: 2023-10-11T19:32:21Z\n   Registry Expiry Date: 2025-10-11T19:32:21Z\n   Registrar: GoDaddy.com, LLC\n   Registrar IANA ID: 146\n   Registrar Abuse Contact Email: abuse@godaddy.com\n   Registrar Abuse Contact Phone: 480-624-2505\n   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\n   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited\n   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\n   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\n   Name Server: NS1.DNS-PARKING.COM\n   Name Server: NS2.DNS-PARKING.COM\n   DNSSEC: unsigned\n   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/\n>>> Last update of whois database: 2025-03-25T11:28:23Z <<<\n\nFor more information on Whois status codes, please visit https://icann.org/epp\n\nNOTICE: The expiration date displayed in this record is the date the\nregistrar's sponsorship of the domain name registration in the registry is\ncurrently set to expire. This date does not necessarily reflect the expiration\ndate of the domain name registrant's agreement with the sponsoring\nregistrar.  Users may consult the sponsoring registrar's Whois database to\nview the registrar's reported date of expiration for this registration.\n\nTERMS OF USE: You are not authorized to access or query our Whois\ndatabase through the use of electronic processes that are high-volume and\nautomated except as reasonably necessary to register domain names or\nmodify existing registrations; the Data in VeriSign Global Registry\nServices' (\"VeriSign\") Whois database is provided by VeriSign for\ninformation purposes only, and to assist persons in obtaining information\nabout or related to a domain name registration record. VeriSign does not\nguarantee its accuracy. By submitting a Whois query, you agree to abide\nby the following terms of use: You agree that you may use this Data only\nfor lawful purposes and that under no circumstances will you use this Data\nto: (1) allow, enable, or otherwise support the transmission of mass\nunsolicited, commercial advertising or solicitations via e-mail, telephone,\nor facsimile; or (2) enable high volume, automated, electronic processes\nthat apply to VeriSign (or its computer systems). The compilation,\nrepackaging, dissemination or other use of this Data is expressly\nprohibited without the prior written consent of VeriSign. You agree not to\nuse electronic processes that are automated and high-volume to access or\nquery the Whois database except as reasonably necessary to register\ndomain names or modify existing registrations. VeriSign reserves the right\nto restrict your access to the Whois database in its sole discretion to ensure\noperational stability.  VeriSign may restrict or terminate your access to the\nWhois database for failure to abide by these terms of use. VeriSign\nreserves the right to modify these terms at any time.\n\nThe Registry database contains ONLY .COM, .NET, .EDU domains and\nRegistrars.\nThis WHOIS server is being retired. Please use our RDAP service instead. Rate limit exceeded. Try again after: 2562047h47m16.854775807s.\n"
+            }
+        ],
+        "ioc_matches": [],
+        "misp_hits": []
+    }
+}

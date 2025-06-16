@@ -1,0 +1,401 @@
+{
+    "Domain Intelligence": {
+        "domain": "hdhub4u.soccer",
+        "whois": {
+            "domain_name": "hdhub4u.soccer",
+            "registrar": "TUCOWS, INC.",
+            "creation_date": "2025-03-17 19:16:42",
+            "expiration_date": "2026-03-17 19:16:42",
+            "emails": "domainabuse@tucows.com",
+            "name_servers": [
+                "alexis.ns.cloudflare.com",
+                "zita.ns.cloudflare.com"
+            ]
+        },
+        "dns_records": {
+            "A": [
+                "104.21.20.163",
+                "172.67.193.51"
+            ],
+            "AAAA": [
+                "2606:4700:3034::6815:14a3",
+                "2606:4700:3036::ac43:c133"
+            ],
+            "CNAME": [],
+            "MX": [],
+            "TXT": [
+                "\"google-site-verification=DeS_VKnaOec2VFJouwAN1Wi5-Hw4vu0UspUB7qkNMYw\""
+            ]
+        },
+        "reverse_dns": [
+            {
+                "104.21.20.163": null
+            },
+            {
+                "172.67.193.51": null
+            }
+        ],
+        "geolocation": [
+            {
+                "104.21.20.163": {
+                    "ip": "104.21.20.163",
+                    "city": "San Francisco",
+                    "region": "California",
+                    "country": "US",
+                    "loc": "37.7621,-122.3971",
+                    "org": "AS13335 Cloudflare, Inc.",
+                    "postal": "94107",
+                    "timezone": "America/Los_Angeles",
+                    "anycast": true
+                }
+            },
+            {
+                "172.67.193.51": {
+                    "ip": "172.67.193.51",
+                    "city": "San Francisco",
+                    "region": "California",
+                    "country": "US",
+                    "loc": "37.7621,-122.3971",
+                    "org": "AS13335 Cloudflare, Inc.",
+                    "postal": "94107",
+                    "timezone": "America/Los_Angeles",
+                    "anycast": true
+                }
+            }
+        ],
+        "passive_dns": {
+            "data": [
+                {
+                    "id": "172.67.193.51hdhub4u.soccer",
+                    "type": "resolution",
+                    "links": {
+                        "self": "https://www.virustotal.com/api/v3/resolutions/172.67.193.51hdhub4u.soccer"
+                    },
+                    "attributes": {
+                        "date": 1742243976,
+                        "ip_address_last_analysis_stats": {
+                            "malicious": 0,
+                            "suspicious": 0,
+                            "undetected": 31,
+                            "harmless": 63,
+                            "timeout": 0
+                        },
+                        "host_name_last_analysis_stats": {
+                            "malicious": 1,
+                            "suspicious": 0,
+                            "undetected": 31,
+                            "harmless": 62,
+                            "timeout": 0
+                        },
+                        "host_name": "hdhub4u.soccer",
+                        "ip_address": "172.67.193.51",
+                        "resolver": "VirusTotal"
+                    }
+                },
+                {
+                    "id": "104.21.20.163hdhub4u.soccer",
+                    "type": "resolution",
+                    "links": {
+                        "self": "https://www.virustotal.com/api/v3/resolutions/104.21.20.163hdhub4u.soccer"
+                    },
+                    "attributes": {
+                        "date": 1742243976,
+                        "ip_address_last_analysis_stats": {
+                            "malicious": 0,
+                            "suspicious": 0,
+                            "undetected": 32,
+                            "harmless": 62,
+                            "timeout": 0
+                        },
+                        "host_name_last_analysis_stats": {
+                            "malicious": 1,
+                            "suspicious": 0,
+                            "undetected": 31,
+                            "harmless": 62,
+                            "timeout": 0
+                        },
+                        "host_name": "hdhub4u.soccer",
+                        "ip_address": "104.21.20.163",
+                        "resolver": "VirusTotal"
+                    }
+                }
+            ],
+            "meta": {
+                "count": 2
+            },
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/domains/hdhub4u.soccer/resolutions?limit=10"
+            }
+        },
+        "crt_logs": [
+            {
+                "issuer_ca_id": 295815,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+                "common_name": "hdhub4u.soccer",
+                "name_value": "hdhub4u.soccer\nwww.hdhub4u.soccer",
+                "id": 17343877013,
+                "entry_timestamp": "2025-03-23T14:27:36.125",
+                "not_before": "2025-03-23T12:46:36",
+                "not_after": "2025-06-21T12:46:35",
+                "serial_number": "06d48730c4dacf8881bd040b94eabfb96a00",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295815,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+                "common_name": "hdhub4u.soccer",
+                "name_value": "hdhub4u.soccer\nwww.hdhub4u.soccer",
+                "id": 17344139699,
+                "entry_timestamp": "2025-03-23T13:45:06.994",
+                "not_before": "2025-03-23T12:46:36",
+                "not_after": "2025-06-21T12:46:35",
+                "serial_number": "06d48730c4dacf8881bd040b94eabfb96a00",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "hdhub4u.soccer",
+                "name_value": "hdhub4u.soccer\nwww.hdhub4u.soccer",
+                "id": 17199429415,
+                "entry_timestamp": "2025-03-18T03:43:50.623",
+                "not_before": "2025-03-18T02:44:09",
+                "not_after": "2025-06-16T02:44:08",
+                "serial_number": "068bee4d8a3a71c0571dc19fbfdd0d59a544",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "hdhub4u.soccer",
+                "name_value": "hdhub4u.soccer\nwww.hdhub4u.soccer",
+                "id": 17218322244,
+                "entry_timestamp": "2025-03-18T03:42:40.161",
+                "not_before": "2025-03-18T02:44:09",
+                "not_after": "2025-06-16T02:44:08",
+                "serial_number": "068bee4d8a3a71c0571dc19fbfdd0d59a544",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 286236,
+                "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+                "common_name": "hdhub4u.soccer",
+                "name_value": "*.hdhub4u.soccer\nhdhub4u.soccer",
+                "id": 17198566626,
+                "entry_timestamp": "2025-03-18T03:11:00.353",
+                "not_before": "2025-03-17T18:29:58",
+                "not_after": "2025-06-15T19:28:07",
+                "serial_number": "00ac3c97dfd4c489610e987ecb2dd3ca1a",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 286236,
+                "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+                "common_name": "hdhub4u.soccer",
+                "name_value": "*.hdhub4u.soccer\nhdhub4u.soccer",
+                "id": 17224086332,
+                "entry_timestamp": "2025-03-17T19:29:59.612",
+                "not_before": "2025-03-17T18:29:58",
+                "not_after": "2025-06-15T19:28:07",
+                "serial_number": "00ac3c97dfd4c489610e987ecb2dd3ca1a",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 282054,
+                "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+                "common_name": "hdhub4u.soccer",
+                "name_value": "*.hdhub4u.soccer\nhdhub4u.soccer",
+                "id": 17189680759,
+                "entry_timestamp": "2025-03-17T19:29:34.867",
+                "not_before": "2025-03-17T19:19:33",
+                "not_after": "2025-06-15T19:28:14",
+                "serial_number": "7ae2eedd841b2fb2b5f2141d38765f6a",
+                "result_count": 3
+            }
+        ],
+        "subdomains_sublist3r": {
+            "error": "Sublist3r scan timed out"
+        },
+        "subdomains_amass": {
+            "error": "Amass scan timed out"
+        },
+        "dns_bruteforce": {
+            "error": "Command '['dnsrecon', '-d', 'hdhub4u.soccer', '-t', 'brt']' returned non-zero exit status 1."
+        }
+    },
+    "Network Scanning": {
+        "nmap_scan": {
+            "error": "'Timeout from nmap process'"
+        },
+        "masscan_scan": [
+            {
+                "ip": "104.21.20.163",
+                "port": "2052"
+            }
+        ],
+        "os_fingerprint": {},
+        "banner_grabbing": {}
+    },
+    "Packet Analysis": {
+        "zeek_dns": [],
+        "zeek_http": [],
+        "zeek_ssl": [],
+        "domain_pivoting": [],
+        "suricata_alerts": [],
+        "tcpflow_sessions": [],
+        "asn_info": [
+            {
+                "ip": "104.21.20.163",
+                "city": "San Francisco",
+                "region": "California",
+                "country": "US",
+                "loc": "37.7621,-122.3971",
+                "org": "AS13335 Cloudflare, Inc.",
+                "postal": "94107",
+                "timezone": "America/Los_Angeles",
+                "anycast": true
+            }
+        ]
+    },
+    "SSL Inspection & Network Path": {
+        "traceroute": [
+            {
+                "hop": 128,
+                "ip": "172.25.144.1"
+            },
+            {
+                "hop": 63,
+                "ip": "192.168.1.1"
+            },
+            {
+                "hop": 58,
+                "ip": "104.21.20.163"
+            },
+            {
+                "hop": 58,
+                "ip": "104.21.20.163"
+            },
+            {
+                "hop": 58,
+                "ip": "104.21.20.163"
+            },
+            {
+                "hop": 58,
+                "ip": "104.21.20.163"
+            },
+            {
+                "hop": 58,
+                "ip": "104.21.20.163"
+            },
+            {
+                "hop": 58,
+                "ip": "104.21.20.163"
+            },
+            {
+                "hop": 58,
+                "ip": "104.21.20.163"
+            },
+            {
+                "hop": 58,
+                "ip": "104.21.20.163"
+            },
+            {
+                "hop": 58,
+                "ip": "104.21.20.163"
+            },
+            {
+                "hop": 58,
+                "ip": "104.21.20.163"
+            },
+            {
+                "hop": 58,
+                "ip": "104.21.20.163"
+            },
+            {
+                "hop": 58,
+                "ip": "104.21.20.163"
+            },
+            {
+                "hop": 58,
+                "ip": "104.21.20.163"
+            }
+        ],
+        "packet_capture": {
+            "error": "Command '['tshark', '-a', 'duration:10', '-w', 'hdhub4u.soccer_capture.pcap']' returned non-zero exit status 1."
+        },
+        "ssl_certificate": {
+            "subject": [
+                [
+                    [
+                        "commonName",
+                        "hdhub4u.soccer"
+                    ]
+                ]
+            ],
+            "issuer": [
+                [
+                    [
+                        "countryName",
+                        "US"
+                    ]
+                ],
+                [
+                    [
+                        "organizationName",
+                        "Google Trust Services"
+                    ]
+                ],
+                [
+                    [
+                        "commonName",
+                        "WE1"
+                    ]
+                ]
+            ],
+            "SAN": [
+                [
+                    "DNS",
+                    "hdhub4u.soccer"
+                ],
+                [
+                    "DNS",
+                    "*.hdhub4u.soccer"
+                ]
+            ],
+            "valid_from": "Mar 17 18:29:58 2025 GMT",
+            "valid_to": "Jun 15 19:28:07 2025 GMT"
+        },
+        "server_headers": {
+            "Date": "Tue, 25 Mar 2025 09:45:02 GMT",
+            "Content-Type": "text/html; charset=UTF-8",
+            "Transfer-Encoding": "chunked",
+            "Connection": "keep-alive",
+            "x-dns-prefetch-control": "on",
+            "cf-edge-cache": "cache,platform=wordpress",
+            "link": "<https://hdhub4u.soccer/wp-json/>; rel=\"https://api.w.org/\"",
+            "etag": "W/\"363603-1742895190;br\"",
+            "x-litespeed-cache": "hit",
+            "vary": "Accept-Encoding",
+            "x-turbo-charged-by": "LiteSpeed",
+            "Cache-Control": "max-age=60",
+            "CF-Cache-Status": "HIT",
+            "Age": "711",
+            "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=rgol7hIo%2BEKzL0%2BpifNKYJP0OqGixKJOVAqG6ygx4LSS28q0HpjIcpLXEt%2FIRU8u4YqKmSyTnYhFVA20Lgt9ppMi5G%2FehWZMgNhsd74TdjW%2FS2e3CYo8VowGaODu2pld9w%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+            "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+            "Server": "cloudflare",
+            "CF-RAY": "925d791e8a0991b1-SIN",
+            "alt-svc": "h3=\":443\"; ma=86400",
+            "server-timing": "cfL4;desc=\"?proto=TCP&rtt=91637&min_rtt=91037&rtt_var=26645&sent=4&recv=7&lost=0&retrans=0&sent_bytes=2846&recv_bytes=764&delivery_rate=30768&cwnd=236&unsent_bytes=0&cid=4f3adb3411ef9cee&ts=132&x=0\""
+        }
+    },
+    "Threat Intelligence Correlation": {
+        "nmap_scan": "Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-03-25 09:45 UTC\nNmap scan report for hdhub4u.soccer (104.21.20.163)\nHost is up (0.10s latency).\nOther addresses for hdhub4u.soccer (not scanned): 172.67.193.51 2606:4700:3034::6815:14a3 2606:4700:3036::ac43:c133\nNot shown: 996 filtered tcp ports (no-response)\nPORT     STATE SERVICE  VERSION\n80/tcp   open  http     Cloudflare http proxy\n443/tcp  open  ssl/http Cloudflare http proxy\n8080/tcp open  http     Cloudflare http proxy\n8443/tcp open  ssl/http Cloudflare http proxy\nWarning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port\nOS fingerprint not ideal because: Missing a closed TCP port so results incomplete\nNo OS matches for host\n\nOS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .\nNmap done: 1 IP address (1 host up) scanned in 29.48 seconds\n",
+        "fingerprint_info": [
+            {
+                "whois": "Domain Name: hdhub4u.soccer\nRegistry Domain ID: 932c3f5dd6874c858da1be103d9c7cfa-DONUTS\nRegistrar WHOIS Server: whois.tucows.com\nRegistrar URL: http://www.tucows.com\nUpdated Date: 2025-03-22T19:16:43Z\nCreation Date: 2025-03-17T19:16:42Z\nRegistry Expiry Date: 2026-03-17T19:16:42Z\nRegistrar: Tucows Domains Inc.\nRegistrar IANA ID: 69\nRegistrar Abuse Contact Email: domainabuse@tucows.com\nRegistrar Abuse Contact Phone: 416.535.0123x1283\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nRegistry Registrant ID: REDACTED FOR PRIVACY\nRegistrant Name: REDACTED FOR PRIVACY\nRegistrant Organization: Njalla Okta LLC\nRegistrant Street: REDACTED FOR PRIVACY\nRegistrant City: REDACTED FOR PRIVACY\nRegistrant State/Province: Charlestown\nRegistrant Postal Code: REDACTED FOR PRIVACY\nRegistrant Country: KN\nRegistrant Phone: REDACTED FOR PRIVACY\nRegistrant Phone Ext: REDACTED FOR PRIVACY\nRegistrant Fax: REDACTED FOR PRIVACY\nRegistrant Fax Ext: REDACTED FOR PRIVACY\nRegistrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.\nRegistry Admin ID: REDACTED FOR PRIVACY\nAdmin Name: REDACTED FOR PRIVACY\nAdmin Organization: REDACTED FOR PRIVACY\nAdmin Street: REDACTED FOR PRIVACY\nAdmin City: REDACTED FOR PRIVACY\nAdmin State/Province: REDACTED FOR PRIVACY\nAdmin Postal Code: REDACTED FOR PRIVACY\nAdmin Country: REDACTED FOR PRIVACY\nAdmin Phone: REDACTED FOR PRIVACY\nAdmin Phone Ext: REDACTED FOR PRIVACY\nAdmin Fax: REDACTED FOR PRIVACY\nAdmin Fax Ext: REDACTED FOR PRIVACY\nAdmin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.\nRegistry Tech ID: REDACTED FOR PRIVACY\nTech Name: REDACTED FOR PRIVACY\nTech Organization: REDACTED FOR PRIVACY\nTech Street: REDACTED FOR PRIVACY\nTech City: REDACTED FOR PRIVACY\nTech State/Province: REDACTED FOR PRIVACY\nTech Postal Code: REDACTED FOR PRIVACY\nTech Country: REDACTED FOR PRIVACY\nTech Phone: REDACTED FOR PRIVACY\nTech Phone Ext: REDACTED FOR PRIVACY\nTech Fax: REDACTED FOR PRIVACY\nTech Fax Ext: REDACTED FOR PRIVACY\nTech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.\nName Server: alexis.ns.cloudflare.com\nName Server: zita.ns.cloudflare.com\nDNSSEC: unsigned\nURL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/\n>>> Last update of WHOIS database: 2025-03-25T09:45:33Z <<<\n\nFor more information on Whois status codes, please visit https://icann.org/epp\n\nTerms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be re\nasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.\n"
+            }
+        ],
+        "ioc_matches": [],
+        "misp_hits": []
+    }
+}

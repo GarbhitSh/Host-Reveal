@@ -1,0 +1,184 @@
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in USER mode
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Info: cpu: CPUs/cores online: 4
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Info: suricata: Setting engine mode to IDS mode by default
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Info: exception-policy: master exception-policy set to: auto
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Info: logopenfile: fast output device (regular) initialized: fast.log
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Info: logopenfile: stats output device (regular) initialized: stats.log
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Warning: detect: 1 rule files specified, but no rules were loaded!
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Error: hugepages: unable to open /sys/devices/system/node/
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[51248 - RX#01] 2025-03-24 20:52:59 Error: pcap: truncated dump file; tried to read 4 file header bytes, only got 0
+[51248 - RX#01] 2025-03-24 20:52:59 Warning: pcap: Failed to init pcap file analysis_output/thalesgroup.com.pcap, skipping
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[51248 - RX#01] 2025-03-24 20:52:59 Error: pcap: pcap file reader thread failed to initialize
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Error: hugepages: unable to open /sys/devices/system/node/
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Notice: suricata: Signal Received.  Stopping engine.
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Info: suricata: time elapsed 0.070s
+[51247 - Suricata-Main] 2025-03-24 20:52:59 Info: counters: Alerts: 0
+[62079 - Suricata-Main] 2025-03-24 21:50:11 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in USER mode
+[62079 - Suricata-Main] 2025-03-24 21:50:11 Info: cpu: CPUs/cores online: 4
+[62079 - Suricata-Main] 2025-03-24 21:50:11 Info: suricata: Setting engine mode to IDS mode by default
+[62079 - Suricata-Main] 2025-03-24 21:50:11 Info: exception-policy: master exception-policy set to: auto
+[62079 - Suricata-Main] 2025-03-24 21:50:11 Info: logopenfile: fast output device (regular) initialized: fast.log
+[62079 - Suricata-Main] 2025-03-24 21:50:11 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[62079 - Suricata-Main] 2025-03-24 21:50:11 Info: logopenfile: stats output device (regular) initialized: stats.log
+[62079 - Suricata-Main] 2025-03-24 21:50:11 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[62079 - Suricata-Main] 2025-03-24 21:50:11 Warning: detect: 1 rule files specified, but no rules were loaded!
+[62079 - Suricata-Main] 2025-03-24 21:50:11 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[62079 - Suricata-Main] 2025-03-24 21:50:11 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[62079 - Suricata-Main] 2025-03-24 21:50:11 Error: hugepages: unable to open /sys/devices/system/node/
+[62079 - Suricata-Main] 2025-03-24 21:50:11 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[62080 - RX#01] 2025-03-24 21:50:11 Error: pcap: truncated dump file; tried to read 4 file header bytes, only got 0
+[62080 - RX#01] 2025-03-24 21:50:11 Warning: pcap: Failed to init pcap file analysis_output/thalesgroup.com.pcap, skipping
+[62079 - Suricata-Main] 2025-03-24 21:50:12 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[62080 - RX#01] 2025-03-24 21:50:12 Error: pcap: pcap file reader thread failed to initialize
+[62079 - Suricata-Main] 2025-03-24 21:50:12 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[62079 - Suricata-Main] 2025-03-24 21:50:12 Error: hugepages: unable to open /sys/devices/system/node/
+[62079 - Suricata-Main] 2025-03-24 21:50:12 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[62079 - Suricata-Main] 2025-03-24 21:50:12 Notice: suricata: Signal Received.  Stopping engine.
+[62079 - Suricata-Main] 2025-03-24 21:50:12 Info: suricata: time elapsed 0.057s
+[62079 - Suricata-Main] 2025-03-24 21:50:12 Info: counters: Alerts: 0
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in USER mode
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Info: cpu: CPUs/cores online: 4
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Info: suricata: Setting engine mode to IDS mode by default
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Info: exception-policy: master exception-policy set to: auto
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Info: logopenfile: fast output device (regular) initialized: fast.log
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Info: logopenfile: stats output device (regular) initialized: stats.log
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Warning: detect: 1 rule files specified, but no rules were loaded!
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Error: hugepages: unable to open /sys/devices/system/node/
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[71119 - RX#01] 2025-03-24 22:34:08 Error: pcap: truncated dump file; tried to read 4 file header bytes, only got 0
+[71119 - RX#01] 2025-03-24 22:34:08 Warning: pcap: Failed to init pcap file analysis_output/hadronrobolabs.com.pcap, skipping
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[71119 - RX#01] 2025-03-24 22:34:08 Error: pcap: pcap file reader thread failed to initialize
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Error: hugepages: unable to open /sys/devices/system/node/
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Notice: suricata: Signal Received.  Stopping engine.
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Info: suricata: time elapsed 0.071s
+[71118 - Suricata-Main] 2025-03-24 22:34:08 Info: counters: Alerts: 0
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in USER mode
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Info: cpu: CPUs/cores online: 4
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Info: suricata: Setting engine mode to IDS mode by default
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Info: exception-policy: master exception-policy set to: auto
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Info: logopenfile: fast output device (regular) initialized: fast.log
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Info: logopenfile: stats output device (regular) initialized: stats.log
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Warning: detect: 1 rule files specified, but no rules were loaded!
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Error: hugepages: unable to open /sys/devices/system/node/
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[91618 - RX#01] 2025-03-25 09:32:05 Error: pcap: truncated dump file; tried to read 4 file header bytes, only got 0
+[91618 - RX#01] 2025-03-25 09:32:05 Warning: pcap: Failed to init pcap file analysis_output/thalesgroup.com.pcap, skipping
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[91618 - RX#01] 2025-03-25 09:32:05 Error: pcap: pcap file reader thread failed to initialize
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Error: hugepages: unable to open /sys/devices/system/node/
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Notice: suricata: Signal Received.  Stopping engine.
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Info: suricata: time elapsed 0.074s
+[91617 - Suricata-Main] 2025-03-25 09:32:05 Info: counters: Alerts: 0
+[94878 - Suricata-Main] 2025-03-25 09:44:57 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in USER mode
+[94878 - Suricata-Main] 2025-03-25 09:44:57 Info: cpu: CPUs/cores online: 4
+[94878 - Suricata-Main] 2025-03-25 09:44:57 Info: suricata: Setting engine mode to IDS mode by default
+[94878 - Suricata-Main] 2025-03-25 09:44:57 Info: exception-policy: master exception-policy set to: auto
+[94878 - Suricata-Main] 2025-03-25 09:44:57 Info: logopenfile: fast output device (regular) initialized: fast.log
+[94878 - Suricata-Main] 2025-03-25 09:44:57 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[94878 - Suricata-Main] 2025-03-25 09:44:57 Info: logopenfile: stats output device (regular) initialized: stats.log
+[94878 - Suricata-Main] 2025-03-25 09:44:57 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[94878 - Suricata-Main] 2025-03-25 09:44:57 Warning: detect: 1 rule files specified, but no rules were loaded!
+[94878 - Suricata-Main] 2025-03-25 09:44:57 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[94878 - Suricata-Main] 2025-03-25 09:44:57 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[94878 - Suricata-Main] 2025-03-25 09:44:57 Error: hugepages: unable to open /sys/devices/system/node/
+[94878 - Suricata-Main] 2025-03-25 09:44:57 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[94879 - RX#01] 2025-03-25 09:44:58 Error: pcap: truncated dump file; tried to read 4 file header bytes, only got 0
+[94879 - RX#01] 2025-03-25 09:44:58 Warning: pcap: Failed to init pcap file analysis_output/hdhub4u.soccer.pcap, skipping
+[94878 - Suricata-Main] 2025-03-25 09:44:58 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[94879 - RX#01] 2025-03-25 09:44:58 Error: pcap: pcap file reader thread failed to initialize
+[94878 - Suricata-Main] 2025-03-25 09:44:58 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[94878 - Suricata-Main] 2025-03-25 09:44:58 Error: hugepages: unable to open /sys/devices/system/node/
+[94878 - Suricata-Main] 2025-03-25 09:44:58 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[94878 - Suricata-Main] 2025-03-25 09:44:58 Notice: suricata: Signal Received.  Stopping engine.
+[94878 - Suricata-Main] 2025-03-25 09:44:58 Info: suricata: time elapsed 0.074s
+[94878 - Suricata-Main] 2025-03-25 09:44:58 Info: counters: Alerts: 0
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in USER mode
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Info: cpu: CPUs/cores online: 4
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Info: suricata: Setting engine mode to IDS mode by default
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Info: exception-policy: master exception-policy set to: auto
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Info: logopenfile: fast output device (regular) initialized: fast.log
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Info: logopenfile: stats output device (regular) initialized: stats.log
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Warning: detect: 1 rule files specified, but no rules were loaded!
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Error: hugepages: unable to open /sys/devices/system/node/
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[109429 - RX#01] 2025-03-25 11:01:51 Error: pcap: truncated dump file; tried to read 4 file header bytes, only got 0
+[109429 - RX#01] 2025-03-25 11:01:51 Warning: pcap: Failed to init pcap file analysis_output/delhisouthlogistics.com.pcap, skipping
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[109429 - RX#01] 2025-03-25 11:01:51 Error: pcap: pcap file reader thread failed to initialize
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Error: hugepages: unable to open /sys/devices/system/node/
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Notice: suricata: Signal Received.  Stopping engine.
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Info: suricata: time elapsed 0.061s
+[109428 - Suricata-Main] 2025-03-25 11:01:51 Info: counters: Alerts: 0
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in USER mode
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Info: cpu: CPUs/cores online: 4
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Info: suricata: Setting engine mode to IDS mode by default
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Info: exception-policy: master exception-policy set to: auto
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Info: logopenfile: fast output device (regular) initialized: fast.log
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Info: logopenfile: stats output device (regular) initialized: stats.log
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Warning: detect: 1 rule files specified, but no rules were loaded!
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Error: hugepages: unable to open /sys/devices/system/node/
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[113522 - RX#01] 2025-03-25 11:27:28 Error: pcap: truncated dump file; tried to read 4 file header bytes, only got 0
+[113522 - RX#01] 2025-03-25 11:27:28 Warning: pcap: Failed to init pcap file analysis_output/delhisouthlogistics.com.pcap, skipping
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[113522 - RX#01] 2025-03-25 11:27:28 Error: pcap: pcap file reader thread failed to initialize
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Error: hugepages: unable to open /sys/devices/system/node/
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Notice: suricata: Signal Received.  Stopping engine.
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Info: suricata: time elapsed 0.090s
+[113521 - Suricata-Main] 2025-03-25 11:27:28 Info: counters: Alerts: 0
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in USER mode
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Info: cpu: CPUs/cores online: 4
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Info: suricata: Setting engine mode to IDS mode by default
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Info: exception-policy: master exception-policy set to: auto
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Info: logopenfile: fast output device (regular) initialized: fast.log
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Info: logopenfile: stats output device (regular) initialized: stats.log
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Warning: detect: 1 rule files specified, but no rules were loaded!
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Error: hugepages: unable to open /sys/devices/system/node/
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[115742 - RX#01] 2025-03-25 11:41:36 Error: pcap: truncated dump file; tried to read 4 file header bytes, only got 0
+[115742 - RX#01] 2025-03-25 11:41:36 Warning: pcap: Failed to init pcap file analysis_output/m.filmyzilla.net.ua.pcap, skipping
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[115742 - RX#01] 2025-03-25 11:41:36 Error: pcap: pcap file reader thread failed to initialize
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Notice: threads: Threads created -> RX: 1 W: 4 FM: 1 FR: 1   Engine started.
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Error: hugepages: unable to open /sys/devices/system/node/
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Error: hugepages: failed to obtain number of NUMA nodes in the system
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Notice: suricata: Signal Received.  Stopping engine.
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Info: suricata: time elapsed 0.123s
+[115741 - Suricata-Main] 2025-03-25 11:41:36 Info: counters: Alerts: 0
