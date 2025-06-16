@@ -1,0 +1,720 @@
+{
+    "Domain Intelligence": {
+        "domain": "hadronrobolabs.com",
+        "whois": {
+            "domain_name": "HADRONROBOLABS.COM",
+            "registrar": "GoDaddy.com, LLC",
+            "creation_date": "2022-11-22 12:39:11",
+            "expiration_date": "2025-11-22 12:39:11",
+            "emails": "abuse@godaddy.com",
+            "name_servers": [
+                "NS1.DNS-PARKING.COM",
+                "NS2.DNS-PARKING.COM"
+            ]
+        },
+        "dns_records": {
+            "A": [
+                "89.117.157.37"
+            ],
+            "AAAA": [
+                "2a02:4780:11:1099:0:245c:8825:3"
+            ],
+            "CNAME": [],
+            "MX": [
+                "5 mx1.hostinger.com.",
+                "10 mx2.hostinger.com."
+            ],
+            "TXT": [
+                "\"v=spf1 include:_spf.mail.hostinger.com ~all\"",
+                "\"google-site-verification=RO5ulmV31ncr1o2cPEMgWYPjOM7YRBSOaDiw09hlxZM\""
+            ]
+        },
+        "reverse_dns": [
+            {
+                "89.117.157.37": null
+            }
+        ],
+        "geolocation": [
+            {
+                "89.117.157.37": {
+                    "ip": "89.117.157.37",
+                    "city": "Mumbai",
+                    "region": "Maharashtra",
+                    "country": "IN",
+                    "loc": "19.0728,72.8826",
+                    "org": "AS47583 Hostinger International Limited",
+                    "postal": "400017",
+                    "timezone": "Asia/Kolkata"
+                }
+            }
+        ],
+        "passive_dns": {
+            "data": [
+                {
+                    "id": "89.117.157.37hadronrobolabs.com",
+                    "type": "resolution",
+                    "links": {
+                        "self": "https://www.virustotal.com/api/v3/resolutions/89.117.157.37hadronrobolabs.com"
+                    },
+                    "attributes": {
+                        "ip_address": "89.117.157.37",
+                        "host_name_last_analysis_stats": {
+                            "malicious": 0,
+                            "suspicious": 0,
+                            "undetected": 94,
+                            "harmless": 0,
+                            "timeout": 0
+                        },
+                        "ip_address_last_analysis_stats": {
+                            "malicious": 0,
+                            "suspicious": 0,
+                            "undetected": 33,
+                            "harmless": 61,
+                            "timeout": 0
+                        },
+                        "host_name": "hadronrobolabs.com",
+                        "resolver": "VirusTotal",
+                        "date": 1719283611
+                    }
+                },
+                {
+                    "id": "217.21.94.63hadronrobolabs.com",
+                    "type": "resolution",
+                    "links": {
+                        "self": "https://www.virustotal.com/api/v3/resolutions/217.21.94.63hadronrobolabs.com"
+                    },
+                    "attributes": {
+                        "ip_address": "217.21.94.63",
+                        "host_name_last_analysis_stats": {
+                            "malicious": 0,
+                            "suspicious": 0,
+                            "undetected": 94,
+                            "harmless": 0,
+                            "timeout": 0
+                        },
+                        "ip_address_last_analysis_stats": {
+                            "malicious": 0,
+                            "suspicious": 0,
+                            "undetected": 94,
+                            "harmless": 0,
+                            "timeout": 0
+                        },
+                        "host_name": "hadronrobolabs.com",
+                        "resolver": "Georgia Institute of Technology",
+                        "date": 1670202696
+                    }
+                },
+                {
+                    "id": "34.102.136.180hadronrobolabs.com",
+                    "type": "resolution",
+                    "links": {
+                        "self": "https://www.virustotal.com/api/v3/resolutions/34.102.136.180hadronrobolabs.com"
+                    },
+                    "attributes": {
+                        "ip_address": "34.102.136.180",
+                        "host_name_last_analysis_stats": {
+                            "malicious": 0,
+                            "suspicious": 0,
+                            "undetected": 94,
+                            "harmless": 0,
+                            "timeout": 0
+                        },
+                        "ip_address_last_analysis_stats": {
+                            "malicious": 1,
+                            "suspicious": 1,
+                            "undetected": 30,
+                            "harmless": 62,
+                            "timeout": 0
+                        },
+                        "host_name": "hadronrobolabs.com",
+                        "resolver": "VirusTotal",
+                        "date": 1669277564
+                    }
+                }
+            ],
+            "meta": {
+                "count": 3
+            },
+            "links": {
+                "self": "https://www.virustotal.com/api/v3/domains/hadronrobolabs.com/resolutions?limit=10"
+            }
+        },
+        "crt_logs": [
+            {
+                "issuer_ca_id": 295815,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 17283266919,
+                "entry_timestamp": "2025-03-21T05:41:23.235",
+                "not_before": "2025-03-21T04:41:49",
+                "not_after": "2025-06-19T04:41:48",
+                "serial_number": "06db7a6d2974f3b631f0824b1163aac6935d",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295815,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 17296254525,
+                "entry_timestamp": "2025-03-21T05:40:19.845",
+                "not_before": "2025-03-21T04:41:49",
+                "not_after": "2025-06-19T04:41:48",
+                "serial_number": "06db7a6d2974f3b631f0824b1163aac6935d",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 16687785516,
+                "entry_timestamp": "2025-01-20T06:31:19.487",
+                "not_before": "2025-01-20T05:32:48",
+                "not_after": "2025-04-20T05:32:47",
+                "serial_number": "0486370bc0ce65cbf9dff1ce8f1940e3338f",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 16337142007,
+                "entry_timestamp": "2025-01-20T06:31:19.206",
+                "not_before": "2025-01-20T05:32:48",
+                "not_after": "2025-04-20T05:32:47",
+                "serial_number": "0486370bc0ce65cbf9dff1ce8f1940e3338f",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 904,
+                "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com",
+                "id": 15521735828,
+                "entry_timestamp": "2024-11-27T16:58:14.627",
+                "not_before": "2024-11-27T16:31:55",
+                "not_after": "2025-11-27T16:31:55",
+                "serial_number": "00f4794b475e226c05",
+                "result_count": 2
+            },
+            {
+                "issuer_ca_id": 904,
+                "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com",
+                "id": 15521523407,
+                "entry_timestamp": "2024-11-27T16:31:55.938",
+                "not_before": "2024-11-27T16:31:55",
+                "not_after": "2025-11-27T16:31:55",
+                "serial_number": "00f4794b475e226c05",
+                "result_count": 2
+            },
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 15531140454,
+                "entry_timestamp": "2024-11-21T07:19:58.57",
+                "not_before": "2024-11-21T06:21:27",
+                "not_after": "2025-02-19T06:21:26",
+                "serial_number": "047e750da32e904014a9557e6faba9feb6b7",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 15442559029,
+                "entry_timestamp": "2024-11-21T07:19:58.05",
+                "not_before": "2024-11-21T06:21:27",
+                "not_after": "2025-02-19T06:21:26",
+                "serial_number": "047e750da32e904014a9557e6faba9feb6b7",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 14644625694,
+                "entry_timestamp": "2024-09-22T08:02:41.096",
+                "not_before": "2024-09-22T07:04:10",
+                "not_after": "2024-12-21T07:04:09",
+                "serial_number": "0411cb8a402f8f13ea9259f0a96488eaa37e",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295814,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 14646369337,
+                "entry_timestamp": "2024-09-22T08:02:40.757",
+                "not_before": "2024-09-22T07:04:10",
+                "not_after": "2024-12-21T07:04:09",
+                "serial_number": "0411cb8a402f8f13ea9259f0a96488eaa37e",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295815,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 13863941632,
+                "entry_timestamp": "2024-07-24T08:58:24.586",
+                "not_before": "2024-07-24T07:58:24",
+                "not_after": "2024-10-22T07:58:23",
+                "serial_number": "038ab40bca340671cb4156222d2f8483b498",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 295815,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 13863269411,
+                "entry_timestamp": "2024-07-24T08:58:24.264",
+                "not_before": "2024-07-24T07:58:24",
+                "not_after": "2024-10-22T07:58:23",
+                "serial_number": "038ab40bca340671cb4156222d2f8483b498",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 13174588708,
+                "entry_timestamp": "2024-05-25T09:53:31.699",
+                "not_before": "2024-05-25T08:53:31",
+                "not_after": "2024-08-23T08:53:30",
+                "serial_number": "048e3ca3c4183352d6200ff391495f0cfde8",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 13174579735,
+                "entry_timestamp": "2024-05-25T09:53:31.607",
+                "not_before": "2024-05-25T08:53:31",
+                "not_after": "2024-08-23T08:53:30",
+                "serial_number": "048e3ca3c4183352d6200ff391495f0cfde8",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 12549379075,
+                "entry_timestamp": "2024-03-26T10:43:13.243",
+                "not_before": "2024-03-26T09:43:13",
+                "not_after": "2024-06-24T09:43:12",
+                "serial_number": "03889aba97f36f4425470b6fe00dcbf183fe",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 12513312731,
+                "entry_timestamp": "2024-03-26T10:43:13.088",
+                "not_before": "2024-03-26T09:43:13",
+                "not_after": "2024-06-24T09:43:12",
+                "serial_number": "03889aba97f36f4425470b6fe00dcbf183fe",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 11874080996,
+                "entry_timestamp": "2024-01-26T10:55:56.772",
+                "not_before": "2024-01-26T09:55:56",
+                "not_after": "2024-04-25T09:55:55",
+                "serial_number": "03e42ccad2e1746864f239a91d41d146e4d0",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 11874078511,
+                "entry_timestamp": "2024-01-26T10:55:56.645",
+                "not_before": "2024-01-26T09:55:56",
+                "not_after": "2024-04-25T09:55:55",
+                "serial_number": "03e42ccad2e1746864f239a91d41d146e4d0",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 11236939811,
+                "entry_timestamp": "2023-11-27T11:36:52.049",
+                "not_before": "2023-11-27T10:36:51",
+                "not_after": "2024-02-25T10:36:50",
+                "serial_number": "03e42f49b752f90de2e20bbe500ba335f345",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 11236936291,
+                "entry_timestamp": "2023-11-27T11:36:51.901",
+                "not_before": "2023-11-27T10:36:51",
+                "not_after": "2024-02-25T10:36:50",
+                "serial_number": "03e42f49b752f90de2e20bbe500ba335f345",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 10743317478,
+                "entry_timestamp": "2023-09-28T12:09:53.377",
+                "not_before": "2023-09-28T11:09:52",
+                "not_after": "2023-12-27T11:09:51",
+                "serial_number": "04acc33c8a933c7d883515eae1893c612325",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 10710766384,
+                "entry_timestamp": "2023-09-28T12:09:53.073",
+                "not_before": "2023-09-28T11:09:52",
+                "not_after": "2023-12-27T11:09:51",
+                "serial_number": "04acc33c8a933c7d883515eae1893c612325",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 10027252273,
+                "entry_timestamp": "2023-07-30T13:04:11.759",
+                "not_before": "2023-07-30T12:04:11",
+                "not_after": "2023-10-28T12:04:10",
+                "serial_number": "04bdfe308c09970f4043c5c06d3a7b56ceb0",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 10048216776,
+                "entry_timestamp": "2023-07-30T13:04:11.407",
+                "not_before": "2023-07-30T12:04:11",
+                "not_after": "2023-10-28T12:04:10",
+                "serial_number": "04bdfe308c09970f4043c5c06d3a7b56ceb0",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 9554143663,
+                "entry_timestamp": "2023-05-31T11:25:52.642",
+                "not_before": "2023-05-31T10:25:52",
+                "not_after": "2023-08-29T10:25:51",
+                "serial_number": "03fbbc3690967bbbd9c0b6ab5917dad0b227",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 9533704903,
+                "entry_timestamp": "2023-05-31T11:25:52.461",
+                "not_before": "2023-05-31T10:25:52",
+                "not_after": "2023-08-29T10:25:51",
+                "serial_number": "03fbbc3690967bbbd9c0b6ab5917dad0b227",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 9056445857,
+                "entry_timestamp": "2023-04-01T11:22:39.761",
+                "not_before": "2023-04-01T10:22:39",
+                "not_after": "2023-06-30T10:22:38",
+                "serial_number": "04c76d6f81ac59dd563f0032a380a32925d6",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 9031874412,
+                "entry_timestamp": "2023-04-01T11:22:39.455",
+                "not_before": "2023-04-01T10:22:39",
+                "not_after": "2023-06-30T10:22:38",
+                "serial_number": "04c76d6f81ac59dd563f0032a380a32925d6",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 8626233227,
+                "entry_timestamp": "2023-01-31T12:17:51.081",
+                "not_before": "2023-01-31T11:17:50",
+                "not_after": "2023-05-01T11:17:49",
+                "serial_number": "04121b63491751bf3e6f345a8b6c5a1525c1",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 8543090891,
+                "entry_timestamp": "2023-01-31T12:17:50.891",
+                "not_before": "2023-01-31T11:17:50",
+                "not_after": "2023-05-01T11:17:49",
+                "serial_number": "04121b63491751bf3e6f345a8b6c5a1525c1",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 8125298856,
+                "entry_timestamp": "2022-12-02T12:37:01.826",
+                "not_before": "2022-12-02T11:37:01",
+                "not_after": "2023-03-02T11:37:00",
+                "serial_number": "044e80d567503dec41cb75127e58510d51e0",
+                "result_count": 3
+            },
+            {
+                "issuer_ca_id": 183267,
+                "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+                "common_name": "hadronrobolabs.com",
+                "name_value": "hadronrobolabs.com\nwww.hadronrobolabs.com",
+                "id": 8103688561,
+                "entry_timestamp": "2022-12-02T12:37:01.455",
+                "not_before": "2022-12-02T11:37:01",
+                "not_after": "2023-03-02T11:37:00",
+                "serial_number": "044e80d567503dec41cb75127e58510d51e0",
+                "result_count": 3
+            }
+        ],
+        "subdomains_sublist3r": [
+            "www.hadronrobolabs.com"
+        ],
+        "subdomains_amass": {
+            "error": "Amass scan timed out"
+        },
+        "dns_bruteforce": {
+            "error": "Command '['dnsrecon', '-d', 'hadronrobolabs.com', '-t', 'brt']' returned non-zero exit status 1."
+        }
+    },
+    "Network Scanning": {
+        "nmap_scan": {
+            "error": "'Timeout from nmap process'"
+        },
+        "masscan_scan": [
+            {
+                "ip": "89.117.157.37",
+                "port": "443"
+            },
+            {
+                "ip": "89.117.157.37",
+                "port": "3306"
+            },
+            {
+                "ip": "89.117.157.37",
+                "port": "1723"
+            },
+            {
+                "ip": "89.117.157.37",
+                "port": "65002"
+            },
+            {
+                "ip": "89.117.157.37",
+                "port": "21"
+            },
+            {
+                "ip": "89.117.157.37",
+                "port": "80"
+            },
+            {
+                "ip": "89.117.157.37",
+                "port": "554"
+            }
+        ],
+        "os_fingerprint": {},
+        "banner_grabbing": {
+            "89.117.157.37:21": "220 FTP Server ready.",
+            "89.117.157.37:3306": "L\u0000\u0000\u0000\n10.11.10\u0000\u0281I\u0002TMJN3\u0018G=\u0000/!\u0002\u0000\u0015\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001c)\t^\u0011N\u001cSpA\u0002^\u0000mysql_native_password\u0000"
+        }
+    },
+    "Packet Analysis": {
+        "zeek_dns": [],
+        "zeek_http": [],
+        "zeek_ssl": [],
+        "domain_pivoting": [],
+        "suricata_alerts": [],
+        "tcpflow_sessions": [],
+        "asn_info": [
+            {
+                "ip": "89.117.157.37",
+                "city": "Mumbai",
+                "region": "Maharashtra",
+                "country": "IN",
+                "loc": "19.0728,72.8826",
+                "org": "AS47583 Hostinger International Limited",
+                "postal": "400017",
+                "timezone": "Asia/Kolkata"
+            }
+        ]
+    },
+    "SSL Inspection & Network Path": {
+        "traceroute": [
+            {
+                "hop": 128,
+                "ip": "172.25.144.1"
+            },
+            {
+                "hop": 63,
+                "ip": "192.168.143.189"
+            },
+            {
+                "hop": 245,
+                "ip": "136.232.253.36"
+            },
+            {
+                "hop": 53,
+                "ip": "103.172.146.62"
+            },
+            {
+                "hop": 51,
+                "ip": "153.92.2.189"
+            },
+            {
+                "hop": 49,
+                "ip": "89.117.157.37"
+            },
+            {
+                "hop": 49,
+                "ip": "89.117.157.37"
+            },
+            {
+                "hop": 50,
+                "ip": "89.117.157.37"
+            },
+            {
+                "hop": 50,
+                "ip": "89.117.157.37"
+            },
+            {
+                "hop": 51,
+                "ip": "153.92.2.171"
+            },
+            {
+                "hop": 49,
+                "ip": "89.117.157.37"
+            }
+        ],
+        "packet_capture": {
+            "error": "Command '['tshark', '-a', 'duration:10', '-w', 'hadronrobolabs.com_capture.pcap']' returned non-zero exit status 1."
+        },
+        "ssl_certificate": {
+            "subject": [
+                [
+                    [
+                        "commonName",
+                        "hadronrobolabs.com"
+                    ]
+                ]
+            ],
+            "issuer": [
+                [
+                    [
+                        "countryName",
+                        "US"
+                    ]
+                ],
+                [
+                    [
+                        "organizationName",
+                        "Let's Encrypt"
+                    ]
+                ],
+                [
+                    [
+                        "commonName",
+                        "R11"
+                    ]
+                ]
+            ],
+            "SAN": [
+                [
+                    "DNS",
+                    "hadronrobolabs.com"
+                ],
+                [
+                    "DNS",
+                    "www.hadronrobolabs.com"
+                ]
+            ],
+            "valid_from": "Mar 21 04:41:49 2025 GMT",
+            "valid_to": "Jun 19 04:41:48 2025 GMT"
+        },
+        "server_headers": {
+            "Connection": "Keep-Alive",
+            "Keep-Alive": "timeout=5, max=100",
+            "x-powered-by": "PHP/8.0.30",
+            "x-dns-prefetch-control": "on",
+            "content-type": "text/html; charset=UTF-8",
+            "link": "<https://hadronrobolabs.com/wp-json/>; rel=\"https://api.w.org/\", <https://hadronrobolabs.com/wp-json/wp/v2/pages/1437>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://hadronrobolabs.com/>; rel=shortlink",
+            "etag": "\"854-1742837874;gz\"",
+            "x-litespeed-cache": "hit",
+            "transfer-encoding": "chunked",
+            "content-encoding": "gzip",
+            "vary": "Accept-Encoding",
+            "date": "Mon, 24 Mar 2025 22:34:17 GMT",
+            "server": "LiteSpeed",
+            "platform": "hostinger",
+            "panel": "hpanel",
+            "content-security-policy": "upgrade-insecure-requests",
+            "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+        }
+    },
+    "Threat Intelligence Correlation": {
+        "nmap_scan": "Error: Nmap scan timed out",
+        "fingerprint_info": [
+            {
+                "whois_error": "Command '['whois', 'hadronrobolabs.com']' returned non-zero exit status 2."
+            }
+        ],
+        "ioc_matches": [],
+        "misp_hits": []
+    }
+}
